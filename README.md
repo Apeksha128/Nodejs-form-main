@@ -3,7 +3,10 @@
 
 ---
 ## screenshots
-### Index Page
+### Home Page
 ![index page](index.PNG)
-### Login page
+### Login Page
 ![Login](login1.PNG)
+### Registration Page
+![Register](register.PNG)
+
