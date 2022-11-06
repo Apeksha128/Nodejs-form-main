@@ -13,3 +13,5 @@
 ![Update](upadte.PNG)
 ### User authentication
 ![Users](UserNotFound.PNG)
+### Contact Details
+![Contact](contactDiary.PNG)
