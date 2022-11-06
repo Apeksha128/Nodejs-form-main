@@ -12,4 +12,4 @@
 ### Update Profile
 ![Update](upadte.PNG)
 ### User authentication
-![Users](userNotFound.PNG)
+![Users](UserNotFound.PNG)
